@@ -1,15 +1,16 @@
 ### Hi there 🌝
 
-# Sobre mi.🍄 
+[![Sobre mi.🍄 ](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Sobre+mi+🍄)](https://git.io/typing-svg)
 
-Hola mi nombre es Valeria Cruz, una estudiante que le gusta la Ingeniería en Sistemas Computacionales. Me encanta el mundo de la tecnología y estoy constantemente buscando aprender y crecer en este campo en constante evolución. 
+
+Hola mi nombre es Valeria Cruz, una estudiante que le gusta la Ingensiería en Sistemas Computacionales. Me encanta el mundo de la tecnología y estoy constantemente buscando aprender y crecer en este campo en constante evolución. 
 
 ![Imagen](https://utel.mx/blog/wp-content/uploads/2014/02/shutterstock_148972376.jpg)
 
-# Educación📚
+#Educación📚
 Actualmente, me encuentro cursando quinto semestre de la carrera de Ingeniería en Sistemas Computacionales en el Instituto Tecnologico de Tijuana. Estoy adquiriendo una sólida base de conocimientos en áreas como programación, bases de datos y desarrollo de software.
 
-# Habilidades Técnicas
+#Habilidades Técnicas
 
 Durante mi formación académica, he adquirido habilidades en:
 
@@ -28,7 +29,6 @@ Si deseas comunicarte conmigo, puedes hacerlo a través de mi correo electrónic
 
 
 ¡Estoy emocionada por seguir aprendiendo y contribuir al mundo de la ingeniería de sistemas computacionales!
-
 
 
 
